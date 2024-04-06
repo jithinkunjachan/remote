@@ -1,1 +1,16 @@
-{}
+{
+    "rows": [
+        {
+            "columns": [
+                {"text":"ON/OFF","type":"NEC","command":""},
+                {"text":"ON/OFF","type":"NEC","command":""}
+            ]
+        },
+        {
+            "columns": [
+                {"text":"ON/OFF","type":"NEC","command":""},
+                {"text":"ON/OFF","type":"NEC","command":""}
+            ]
+        }
+    ]
+}
